@@ -55,3 +55,5 @@ Highly motivated to gain practical industry exposure through a learnership, cont
 
 ---
 ##  Portfolio Video
+<video width="600" controls src="Talent-mock-video.mp4">
+</video> 
