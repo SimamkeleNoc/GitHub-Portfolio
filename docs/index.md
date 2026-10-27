@@ -28,7 +28,7 @@ These screenshots demonstrate visible functionality. They should be considered a
 - **Hosting:** Netlify for the frontend and Vercel for the backend
 - **Integrations:** PayFast, The Courier Guy, Cloudflare and Resend
 
-The store is live at [guardpulse.co.za](https://guardpulse.co.za/). PayFast remains in sandbox mode while account verification is pending, so real payments are not yet enabled.
+The store is live at [guardpulse.co.za](https://guardpulse.co.za/). PayFast has been enabled, the store can now take real payments.
 
 ## Existing Portfolio
 
